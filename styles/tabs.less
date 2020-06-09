@@ -31,6 +31,7 @@ atom-pane:not(.active) {
     .tab {
         color: @text-color-subtle;
         height: @tab-height;
+        line-height: @tab-height;
         font-size: @font-size;
         padding-right: 10px;
         border-top: 1px solid transparent;
@@ -45,7 +46,7 @@ atom-pane:not(.active) {
         }
 
         .title {
-            text-align: left;
+            // text-align: center;
 
             .icon {
                 &::before {
@@ -86,7 +87,7 @@ atom-pane:not(.active) {
 
         .close-icon {
             opacity: 0;
-            top:0;
+            top:0 !important;
             &::before {
                 text-align: center;
             }
