@@ -1,29 +1,21 @@
-![Apex Atom monochrome UI](https://dl.dropboxusercontent.com/u/6396913/Apex/Atom/apex-ui-logo.png)
+# barely-ui-slim
 
-### Installation
-*(for now)*
+A fork of [apex-ui-slim](https://github.com/apex/apex-ui-slim), with a few addition of my own to make the parts of the ui more aesthetic by my definition.
 
+### Note
+This is just the UI theme, the screenshots shown below use the Apex Syntax
+
+## Installation
+```sh
+apm install barelyhuman/barelyhuman-ui-slim
 ```
-$ apm install apex/apex-ui-slim
-```
 
-### Screenshot
+## Screenshot
 
-![](https://dl.dropboxusercontent.com/u/6396913/Apex/Atom/apex-ui-slime.jpg)
+![](screenshot.png)
+
 
 ## Links
-
-- [Remove title bar](https://atom.io/packages/no-title-bar)
+- [Remove Title Bar (required)](https://atom.io/packages/no-title-bar)
 - [Apex UI](https://github.com/apex/apex-ui)
 - [Apex Syntax](https://github.com/apex/apex-syntax)
-
-## Badges
-
-[![](http://apex.sh/images/badge.svg)](https://apex.sh/ping/)
-![](https://img.shields.io/badge/license-MIT-blue.svg)
-
----
-
-> [tjholowaychuk.com](http://tjholowaychuk.com) &nbsp;&middot;&nbsp;
-> GitHub [@tj](https://github.com/tj) &nbsp;&middot;&nbsp;
-> Twitter [@tjholowaychuk](https://twitter.com/tjholowaychuk)

@@ -1,16 +1,15 @@
 {
-  "name": "apex-ui-slim",
+  "name": "barelyhuman-ui-slim",
   "theme": "ui",
   "version": "0.0.0",
-  "description": "Apex monochrome theme UI inspired by iA Writer (slim variant)",
+  "description": "BarelyHuman monochrome theme UI forked from Apex UI (slim variant)",
   "keywords": [
     "apex",
     "monochrome",
     "ui",
-    "ia",
     "theme",
-    "writer",
-    "slim"
+    "slim",
+    "barelyhuman"
   ],
   "repository": "https://github.com/apex/apex-ui-slim",
   "license": "MIT",
